@@ -10,11 +10,6 @@
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<br>
-
-[![coverage report](https://gitlab.stud.idi.ntnu.no/it2810-h21/team-51/project-2/badges/master/coverage.svg)](https://gitlab.stud.idi.ntnu.no/it2810-h21/team-51/project-2/-/commits/master)
-[![pipeline status](https://gitlab.stud.idi.ntnu.no/it2810-h21/team-51/project-2/badges/master/pipeline.svg)](https://gitlab.stud.idi.ntnu.no/it2810-h21/team-51/project-2/-/commits/master)
-
 # Introduction
 
 GitGraph is a single page application that fetches and shows information about our repo. \
