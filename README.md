@@ -37,6 +37,8 @@ To contribute, a guide can be found [here](CONTRIBUTING.md)
 
 ### Made with
 <url>https://github.com/Hoyby<url>
+    
 <url>https://github.com/StefanTomic-NTNU<url>
+    
 <url>https://github.com/MariusArhaug<url>
 
