@@ -34,3 +34,9 @@ The data used on our website is pulled from [the GitLab API](https://docs.gitlab
 More project spesific documentation can be found [here](documentation).
 
 To contribute, a guide can be found [here](CONTRIBUTING.md)
+
+### Made with
+<url>https://github.com/Hoyby<url>
+<url>https://github.com/StefanTomic-NTNU<url>
+<url>https://github.com/MariusArhaug<url>
+
